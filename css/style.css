@@ -1,0 +1,76 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+ .box{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: hsl(32, 100%, 81%);
+ }
+.bg-color{
+    background-color: rgb(246, 185, 88);
+    padding: 50px;
+}
+.box-2{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: hsl(118, 32%, 51%);
+}
+.bg-img{
+    padding: 50px;
+    background-image: url(../css/pexels-tejas-prajapati-669236.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.box-3
+{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: hsl(71, 74%, 82%);  
+}
+.bg-gr{
+    padding: 50px;
+    background-image: url(../css/pexels-jessica-lewis-creative-583850.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.box-4
+{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: hsl(0, 80%, 77%);  
+}
+.bg-2{
+    padding: 50px;
+    background-color: rgb(249, 102, 102);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.box-5
+{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: hsl(144, 28%, 69%);  
+}
+.bg-3{
+    padding: 50px;
+    background-image: url(../css/pexels-daniel-spase-704800.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+p{
+    text-align: center;
+    padding: 75px;
+}
